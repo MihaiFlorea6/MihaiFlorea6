@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Tools: 
+# Tools 
 Git, Github, Xilinx Vivado, ArduinoIDE, VSCode, PyCharm, IntelliJ IDEA, Streamlit.
-# Languages: 
+# Languages 
 C, C++, C#, VHDL, Verilog, Java, Python, Assembly x86.
