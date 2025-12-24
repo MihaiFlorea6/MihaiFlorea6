@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tools 
-Git, Github, Xilinx Vivado, ArduinoIDE, VSCode, PyCharm, IntelliJ IDEA, Streamlit.
+Git, Github, Xilinx Vivado, ArduinoIDE, VSCode, PyCharm, IntelliJ IDEA, DataGrip, Streamlit.
 # Languages 
 C, C++, C#, VHDL, Verilog, Java, Python, Assembly x86.
