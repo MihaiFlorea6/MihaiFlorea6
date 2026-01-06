@@ -24,7 +24,7 @@ C, C++, C#, VHDL, Verilog, Java, Python, Assembly x86.
 * **[Basys3 LED Lighting System](https://github.com/MihaiFlorea6/Basys3_LED_Lighting_System)** - RTL lighting engine on Basys3 with 16-channel PWM, deterministic RTC, and timing-clean 100MHz operation.  
 * **[MIPS 5-Stage Pipeline Processor](https://github.com/MihaiFlorea6/MIPS_5_Stage_Pipeline_Processor)** - VHDL implementation of a MIPS32 pipelined architecture (IF, ID, EX, MEM, WB) with dedicated RTL control units.  
 * **[MultiCore Benchmark Studio](https://github.com/MihaiFlorea6/MultiCoreBenchMarkStudio)** - *Work-in-progress* - C/C++ framework for measuring algorithmic scaling (FFT, MatMul) and CPU throughput across multi-threaded runtimes.  
-* **[VHDL Digital Averaging Unit](https://github.com/MihaiFlorea6/VHDL_Digital_Average_Unit)** - FPGA-synthesizable VHDL moving average filter with configurable sample buffer lengths.
+* **[VHDL Digital Averaging Unit](https://github.com/MihaiFlorea6/VHDL_Digital_Average_Unit)** - Modular VHDL RTL filter for Artix-7 with a synchronous clock-enable execution unit and dynamic 2/4/8/16-sample buffer lengths.
 * **[Functional Hacker News Client](https://github.com/MihaiFlorea6/Functional_Programming_Project)** - Type-safe Elm client featuring custom API integration and advanced data filtering.
 
 **How to reach me:** 
