@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tools 
-Git, Github, IntelliJ IDEA, PyCharm, Xilinx Vivado, ArduinoIDE, VSCode, KiCad, Streamlit, Pandas.  
+Git, Github, Xilinx Vivado, ArduinoIDE, IntelliJ IDEA, PyCharm, VSCode, KiCad, Streamlit, Pandas.  
 # Languages  
-C, C++, Java, Python, VHDL, Verilog, Assembly x86.  
+C, C++, VHDL, Verilog, Java, Python, Assembly x86.  
 # Projects 
 * **[Real-Time SoC Alarm System](https://github.com/MihaiFlorea6/RealTime_Alarm_System)** - Verilog security controller for Basys3 with PIN verification, FSM lockout, and UART-based Python/Streamlit monitoring.  
 * **[ESP32 Smart Mini Hub](https://github.com/MihaiFlorea6/ESP32_Smart_Mini_Hub)** - IoT automation node featuring FSM control, asynchronous C++ web server, and custom KiCad PCB with BJT power stages.  
