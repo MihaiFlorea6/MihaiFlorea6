@@ -1,5 +1,5 @@
 ## Hi there, I'm Mihai!👋
-I am a Computer Science student at Technical University of Cluj-Napoca, passionate about **FPGA design**, **SoC architecture**, and **low-level embedded systems**. My work focuses on developing deterministic real-time hardware, custom communication protocols, and hardware-software integration.  
+I am a Computer Science student at Technical University of Cluj-Napoca, passionate about **FPGA design**, **SoC architecture** and **low-level embedded systems**. My work focuses on developing deterministic real-time hardware, custom communication protocols and hardware-software integration.  
 <!--
 **MihaiFlorea6/MihaiFlorea6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
