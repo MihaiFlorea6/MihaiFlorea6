@@ -24,7 +24,7 @@ C, C++, VHDL, Verilog, Java, Python, Assembly x86.
 * **[ESP32 Smart Mini Hub](https://github.com/MihaiFlorea6/ESP32_Smart_Mini_Hub)** - IoT automation node featuring FSM control, asynchronous C++ web server, and custom KiCad PCB with BJT power stages.
 * **[Basys3 LED Lighting System](https://github.com/MihaiFlorea6/Basys3_LED_Lighting_System)** - RTL lighting engine on Basys3 with 16-channel PWM, deterministic RTC, and timing-clean 100MHz operation.  
 * **[MIPS 5-Stage Pipeline Processor](https://github.com/MihaiFlorea6/MIPS_5_Stage_Pipeline_Processor)** - VHDL implementation of a MIPS32 pipelined architecture (IF, ID, EX, MEM, WB) with dedicated RTL control units.  
-* **[MultiCore Benchmark Studio](https://github.com/MihaiFlorea6/MultiCoreBenchMarkStudio)** - *Work-in-progress* - C/C++ framework for measuring algorithmic scaling (FFT, MatMul) and CPU throughput across multi-threaded runtimes.
+* **[MultiCore Benchmark Studio](https://github.com/MihaiFlorea6/MultiCore_Benchmark_Studio)** - *Work-in-progress* - C/C++ framework for measuring algorithmic scaling (FFT, MatMul) and CPU throughput across multi-threaded runtimes.
   
 
 **How to reach me:** 
