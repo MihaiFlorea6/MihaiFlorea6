@@ -19,12 +19,11 @@ Git, Github, Xilinx Vivado, ArduinoIDE, IntelliJ IDEA, PyCharm, VSCode, KiCad, S
 # Languages  
 C, C++, VHDL, Verilog, Java, Python, Assembly x86.  
 # Projects 
-* **[Autonomous_Obstacle_Avoiding_Robot](https://github.com/MihaiFlorea6/Autonomous_Obstacle_Avoiding_Robot)** - C++ driven 2WD platform on Arduino UNO featuring HC-SR04 ultrasonic navigation, deterministic evasion logic and dynamic MP3 audio feedback.  
-* **[Real-Time SoC Alarm System](https://github.com/MihaiFlorea6/RealTime_Alarm_System)** - Verilog security controller for Basys3 with PIN verification, FSM lockout, and UART-based Python/Streamlit monitoring.  
-* **[ESP32 Smart Mini Hub](https://github.com/MihaiFlorea6/ESP32_Smart_Mini_Hub)** - IoT automation node featuring FSM control, asynchronous C++ web server, and custom KiCad PCB with BJT power stages.
-* **[Basys3 LED Lighting System](https://github.com/MihaiFlorea6/Basys3_LED_Lighting_System)** - RTL lighting engine on Basys3 with 16-channel PWM, deterministic RTC, and timing-clean 100MHz operation.  
+* **[Autonomous_Obstacle_Avoiding_Robot](https://github.com/MihaiFlorea6/Autonomous_Obstacle_Avoiding_Robot)** - C++ driven 2WD platform on Arduino UNO featuring HC-SR04 ultrasonic navigation, deterministic evasion logic and dynamic MP3 audio feedback.
+* **[ESP32 Smart Mini Hub](https://github.com/MihaiFlorea6/ESP32_Smart_Mini_Hub)** - IoT automation node featuring FSM control, asynchronous C++ web server and custom KiCad PCB with BJT power stages.  
+* **[Real-Time SoC Alarm System](https://github.com/MihaiFlorea6/RealTime_Alarm_System)** - Verilog security controller for Basys3 with PIN verification, FSM lockout and UART-based Python/Streamlit monitoring.  
 * **[MIPS 5-Stage Pipeline Processor](https://github.com/MihaiFlorea6/MIPS_5_Stage_Pipeline_Processor)** - VHDL implementation of a MIPS32 pipelined architecture (IF, ID, EX, MEM, WB) with dedicated RTL control units.  
-* **[MultiCore Benchmark Studio](https://github.com/MihaiFlorea6/MultiCore_Benchmark_Studio)** - *Work-in-progress* - C/C++ framework for measuring algorithmic scaling (FFT, MatMul) and CPU throughput across multi-threaded runtimes.
+* **[MultiCore Benchmark Studio](https://github.com/MihaiFlorea6/MultiCore_Benchmark_Studio)** - Multi-language benchmarking suite evaluating C and Rust concurrency, featuring algorithmic hardware profiling and a live Streamlit telemetry dashboard.    
   
 
 **How to reach me:** 
